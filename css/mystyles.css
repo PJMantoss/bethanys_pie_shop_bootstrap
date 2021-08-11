@@ -22,6 +22,10 @@ header img {
     
 }
 
+.bg-light {
+    background-color: #23cfa7 !important;
+}
+
 footer {
     background-color: #9b87b8;
 }
